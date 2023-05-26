@@ -1,0 +1,11 @@
+.background-img{
+    background-image: url("./circuit-system-design-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header{
+    color: lightblue;
+    font-family: cursive;
+}
